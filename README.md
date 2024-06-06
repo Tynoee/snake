@@ -1,9 +1,7 @@
 # Snake Game
 Welcome to the Snake game, a classic arcade game implemented using Python and Pygame. Control the snake, eat the food, and grow as long as possible without running into yourself!
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wjVVxjacUtw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-[![Gameplay Video](https://img.youtube.com/vi/wjVVxjacUtw/0.jpg)](https://www.youtube.com/watch?v=wjVVxjacUtw)
+![Alt text](game.gif)
 
 ## Features
 
